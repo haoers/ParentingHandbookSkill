@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <title>分龄育苗手册</title>
+  <rect x="2" y="2" width="76" height="76" rx="19" fill="#f3f6e9"/>
+  <g stroke="#245e50" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M40 62c-8-5-16-7-27-7V31c10 0 19 4 27 9z" fill="#f4d59a" stroke-width="2.5"/>
+    <path d="M40 62c8-5 16-7 27-7V31c-10 0-19 4-27 9z" fill="#fffae9" stroke-width="2.5"/>
+    <path d="M40 46V31c0-7 4-12 9-16" fill="none" stroke-width="3"/>
+    <path d="M41 28c-9 0-14-4-15-12 9 0 14 3 15 12z" fill="#99bd7f" stroke-width="2"/>
+    <path d="M42 25c1-9 6-14 15-14-1 9-6 14-15 14z" fill="#68a695" stroke-width="2"/>
+    <path d="M19 43c5 1 9 3 14 5m14 1c5-3 9-5 14-6" fill="none" stroke-width="2" opacity=".6"/>
+  </g>
+</svg>

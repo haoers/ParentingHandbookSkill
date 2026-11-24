@@ -1,0 +1,13 @@
+interface:
+  display_name: 分龄育苗手册
+  short_description: 策划、制作与复核三至十八岁家庭每季可回看的分龄育苗手册和打印版 PDF
+  default_prompt: 请使用 $child-growth-handbook，按指定年龄和任务深度制作家庭育苗手册，交代证据与核验结果。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
